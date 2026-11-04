@@ -1,0 +1,6 @@
+__pycache__/
+*.pdf
+*.epub
+原文*.txt
+私有工作目录/
+progress.json
